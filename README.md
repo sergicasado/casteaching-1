@@ -37,6 +37,7 @@ https://tubeme.acacha.org/tdd
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/casteaching
 - Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/casteaching
 - Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteaching
+- Casado Pellissa, Sergi: sergicasado https://github.com/sergicasado/casteaching
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/casteaching
 
 # Projectes en explotació dels alumnes
@@ -51,6 +52,7 @@ https://tubeme.acacha.org/tdd
 - Tomas Altadill, Axel: AxelTomas99: http://casteaching.axeltomas.codes/
 - Muñoz Zafra, Ferran | http://casteaching.ferranmunozzafra.me/
 - Urs, Gabriel: l3lackJack: http://casteaching.gabriel.alumnedam.me/
+- Casado Pellissa, Sergi: sergicasado http://casteaching.sergicp.me
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/casteaching
 
 # Versió de l'aplicació per a mòbils
